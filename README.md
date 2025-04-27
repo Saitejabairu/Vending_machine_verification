@@ -1,0 +1,1 @@
+"VLSI Integrated" is a 6-month online internship that provides training across all domains of VLSI. In the final phase, we choose one specialization and complete a project in that area. I have opted for RTL Verification and worked on a Vending Machine Controller. This repository contains all the modules related to the Vending Machine Controller project.
